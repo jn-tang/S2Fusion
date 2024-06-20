@@ -1,0 +1,12 @@
+torch
+pytorch3d
+tqdm
+numpy
+diffusers
+torchmetrics
+omegaconf
+trimesh
+plyfile
+ema_pytorch
+pyrender
+opencv-python
